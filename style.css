@@ -1,0 +1,68 @@
+#form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+    top: 0;
+    right: 0;
+}
+#page{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 24px;
+}
+h1{
+    text-decoration-color: aqua;
+    font-size: large;
+}
+#button{
+    background-color:aqua;
+    width: 90%;
+    border-radius: 10px;
+    padding: 14px 20px;
+    
+
+
+}
+#image{
+    position: relative;
+    text-align: center;
+    color: aquamarine;
+    font-size: 200%;
+    
+}
+    
+
+input{
+    padding: 14px 20px;
+    border:1px solid;
+    border-color: black
+    margin right
+    border-radius 4px;
+}
+#or{
+    margin: 50%
+}
+#footer{
+    margin:20%
+}
+#gift{
+    display: flex;
+    align-items: center;
+}
+.top-right{
+    position: absolute;
+    top: 2px;
+    right: 6px;
+}
+.label{
+    border: solid aqua;
+    padding: 2px 5px;
+    width: 100%;
+    border-radius: 5px;
+}
+.signup{
+    background-color: aqua;
+    text-decoration-color: black;
+    padding: 24px 340px;
+}
